@@ -282,9 +282,4 @@ ConcurrentHashMap<String, Equation>
 
 Data is stored in-memory and resets on application restart, as required by the specification.
 
----
 
-* Help you prepare how to explain this in an interview
-* Or review your final project structure before submission
-
-Tell me the next step.
